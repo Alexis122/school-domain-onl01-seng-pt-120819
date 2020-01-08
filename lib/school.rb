@@ -17,3 +17,5 @@ school.add_student("Screech", 11)
 school.roster
 
 school.grade(9)
+
+school.sort
